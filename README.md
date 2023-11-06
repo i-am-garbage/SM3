@@ -1,2 +1,4 @@
 # SM3
 在课程学习时，我完成了SM3算法的C语言实现，希望它能帮助您学习SM3算法！ 本代码使用Microsoft Visual Studio 2022编写，能够在Microsoft Visual Studio顺利运行，具体而言，您只需要打开SM3工程化.sln文件，运行test.c文件即可。 更改ccc.test中的内容可以改变明文。 若您使用的是其它编译器，aaa.txt、sm3.c、sm3.h、test.c四个文件也可以在其它编译器运行。 若此代码帮助到了您，希望您能给个star，这对我很重要！
+
+While working on the course, I completed a C implementation of the SM3 algorithm, and I hope it will help you learn the SM3 algorithm! This code was written using Microsoft Visual Studio 2022 and is able to run smoothly in Microsoft Visual Studio, specifically, you just need to open the SM3工程化.sln file and run the test.c file. Changing the contents of ccc.test changes the plaintext. If you are using another compiler, the four files aaa.txt, sm3.c, s.h, and test.c can also be run in other compilers. If this code helped you, I hope you can give a STAR, it's very important to me!
